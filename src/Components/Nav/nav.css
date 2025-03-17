@@ -1,0 +1,46 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  font-size: 22px;
+  position: fixed;
+  width: 100%;
+  font-weight: bold;
+  height: 10vh;
+  z-index: 99999999;
+}
+.anchor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.anchor1 {
+  padding: 10px;
+  text-decoration: none;
+
+  color: white;
+}
+.hamburger {
+  display: none;
+}
+@media screen and (max-width: 650px) {
+  .hamburger {
+    display: block;
+  }
+  .anchor {
+    height: 100vh;
+    position: absolute;
+    top: 0vh;
+    left: 0px;
+    flex-direction: column;
+    width: 100%;
+    gap: 30px;
+    /* background-color: red; */
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: -1;
+  }
+  .active {
+    left: -1000px;
+  }
+}

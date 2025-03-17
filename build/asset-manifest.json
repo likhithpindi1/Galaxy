@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.858d3061.css",
+    "main.js": "/static/js/main.bfbc0ef4.js",
+    "static/media/photorealistic-galaxy-background.jpg": "/static/media/photorealistic-galaxy-background.d93ba0f3471ec3700e65.jpg",
+    "static/media/pexels-felixmittermeier-956999.jpg": "/static/media/pexels-felixmittermeier-956999.ee50e35ef13347bdf6cf.jpg",
+    "static/media/pexels-felixmittermeier-957061.jpg": "/static/media/pexels-felixmittermeier-957061.bb9f3f1e9e898a80d520.jpg",
+    "static/media/5194-183786499_small.mp4": "/static/media/5194-183786499_small.d7e3b28935389d8386f3.mp4",
+    "static/media/pexels-kaip-1341279.jpg": "/static/media/pexels-kaip-1341279.6d582c84c68f1ca3b47d.jpg",
+    "static/media/pexels-jnovphoto-924824.jpg": "/static/media/pexels-jnovphoto-924824.3fdd6cf0bf750d8d481b.jpg",
+    "static/media/pexels-minan1398-920534.jpg": "/static/media/pexels-minan1398-920534.278f3db11655a9c631a6.jpg",
+    "static/media/pexels-neale-lasalle-197020-631477.jpg": "/static/media/pexels-neale-lasalle-197020-631477.7961e2ae9a292ab5acd7.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.858d3061.css.map": "/static/css/main.858d3061.css.map",
+    "main.bfbc0ef4.js.map": "/static/js/main.bfbc0ef4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.858d3061.css",
+    "static/js/main.bfbc0ef4.js"
+  ]
+}
