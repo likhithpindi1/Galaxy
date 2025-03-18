@@ -5,6 +5,7 @@ import Hero from "./Components/Hero";
 import "../Home/Components/hero.css";
 import About from "./Components/About";
 import Service from "./Components/Service";
+import Calltoaction from "./Components/Calltoaction";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Hero />
       <About />
       <Service />
+      <Calltoaction />
     </div>
   );
 };
