@@ -6,11 +6,21 @@ import { useState } from "react";
 
 const Nav = () => {
   let [click, setClick] = useState(false);
+  let [color, setColor] = useState(false);
+  let handleColor = () => {
+    if (window.scrollY >= 200) {
+      setColor(true);
+    } else {
+      setColor(false);
+    }
+  };
+  window.addEventListener("scroll", handleColor);
+
   let handelClick = () => {
     setClick(!click);
   };
   return (
-    <div className="nav">
+    <div className={color ? "nav nav-color" : "nav"}>
       <div className="logo">
         <Link className="logo anchor1">Galaxy</Link>
       </div>
